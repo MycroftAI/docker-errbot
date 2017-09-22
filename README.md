@@ -1,4 +1,4 @@
-# rroemhild/errbot
+# mycroftAI/errbot
 
 - [Introduction](#introduction)
 - [Quick Start](#quick-start)
